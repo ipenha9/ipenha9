@@ -1,6 +1,7 @@
 # Hi, I'm Ivan 👋
 
-**QA Automation Engineer** with 10+ years of experience in software testing across aerospace, automotive, and mobile applications.
+**QA Engineer** with 8+ years of experience in software testing across aerospace, automotive, and mobile applications.
+ | Now focused on **test automation** with Python & Selenium.
 
 Currently building test automation frameworks with Python and Selenium WebDriver, transitioning into an SDET role.
 
